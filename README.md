@@ -1,4 +1,4 @@
-## P2 Investigate a Dataset
+## Investigate a Dataset
 ![Titanic photo](https://img-s3.onedio.com/id-57ac655c93ea85a73295469e/rev-0/raw/s-a70a50299c0304d3e582f5b0738a3fe709e3a5df.jpg)  
 
 - This project investigates some of the factors that most likely influenced the survival rate of the passengers of the RMS Titanic during its sinking. 
