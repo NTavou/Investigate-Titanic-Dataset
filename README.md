@@ -10,4 +10,4 @@ The report was generated in a Jupyter Notebook.
 - The Titanic dataset can by found [here](https://www.kaggle.com/c/titanic/data?test.csv) (train.csv) at the Kaggle website.
 
 
-This project is part of the Data Analyst Nanodegree Program by [Udacity](https://www.udacity.com/)
+This project is part of the Data Analyst Nanodegree Program by [Udacity](https://www.udacity.com/).
